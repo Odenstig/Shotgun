@@ -1,0 +1,10 @@
+C:\Users\Oden\source\repos\Shotgun\Shotgun\bin\Debug\Shotgun.exe.config
+C:\Users\Oden\source\repos\Shotgun\Shotgun\bin\Debug\Shotgun.exe
+C:\Users\Oden\source\repos\Shotgun\Shotgun\bin\Debug\Shotgun.pdb
+C:\Users\Oden\source\repos\Shotgun\Shotgun\obj\Debug\Shotgun.Properties.Resources.resources
+C:\Users\Oden\source\repos\Shotgun\Shotgun\obj\Debug\Shotgun.csproj.GenerateResource.cache
+C:\Users\Oden\source\repos\Shotgun\Shotgun\obj\Debug\Shotgun.csproj.CoreCompileInputs.cache
+C:\Users\Oden\source\repos\Shotgun\Shotgun\obj\Debug\Shotgun.exe
+C:\Users\Oden\source\repos\Shotgun\Shotgun\obj\Debug\Shotgun.pdb
+C:\Users\Oden\source\repos\Shotgun\Shotgun\obj\Debug\Shotgun.FormShotgun.resources
+C:\Users\Oden\source\repos\Shotgun\Shotgun\obj\Debug\Shotgun.csproj.AssemblyReference.cache
